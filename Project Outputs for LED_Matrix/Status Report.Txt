@@ -1,0 +1,10 @@
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [LED_Matrix.PcbDoc]
+   Generated File[LED_Matrix.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 21:44:05 On 5.11.2024
