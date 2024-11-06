@@ -15,7 +15,7 @@ The design was carried out using the Altium Designer program.
 ## Block Diagram
 
 <p align="left">
-  <img width="650" height="350" src="https://raw.githubusercontent.com/kurtasli/BluetoothControlled_LED_Matrix/refs/heads/main/Images/blockdiagram.png">
+  <img width="700" height="350" src="https://raw.githubusercontent.com/kurtasli/BluetoothControlled_LED_Matrix/refs/heads/main/Images/blockdiagram.png">
 </p>
 
 Red lines refer to POWER LINE.
